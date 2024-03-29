@@ -7,3 +7,4 @@
 ```
 flutter run --web-port 3001
 ```
+Презентация проекта находится [по ссылке](https://disk.yandex.ru/i/RPkY6UfmVStLjA)
