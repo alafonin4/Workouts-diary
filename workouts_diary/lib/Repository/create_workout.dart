@@ -32,7 +32,7 @@ Future<String?> create(WorkoutRequest workout) async {
       return null;
     }
   } catch (e) {
-    print("erngier $e");
+    print("error $e");
     return null;
   }
 }
